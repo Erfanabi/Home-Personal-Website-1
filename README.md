@@ -34,5 +34,4 @@ Project Link: [https://github.com/Erfanabi/Home-Personal-Website-1](https://gith
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot]: img/about.jpg
-
+[product-screenshot]: demo/png
